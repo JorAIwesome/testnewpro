@@ -1,0 +1,16 @@
+azure-functions
+azure-identity
+azure-keyvault-secrets
+azure-storage-blob
+azure-mgmt-storage 
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+google-analytics-data
+google-analytics-admin
+netCDF4
+numpy
+pandas
+requests
+sqlalchemy
+pyodbc
